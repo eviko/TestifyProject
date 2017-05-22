@@ -1,0 +1,14 @@
+F:\Projects\Testify\Testify.Ef\bin\Debug\Testify.Ef.dll.config
+F:\Projects\Testify\Testify.Ef\bin\Debug\Testify.Ef.dll
+F:\Projects\Testify\Testify.Ef\bin\Debug\Testify.Ef.pdb
+F:\Projects\Testify\Testify.Ef\bin\Debug\EntityFramework.dll
+F:\Projects\Testify\Testify.Ef\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\Testify\Testify.Ef\bin\Debug\Testify.Model.dll
+F:\Projects\Testify\Testify.Ef\bin\Debug\Testify.Model.pdb
+F:\Projects\Testify\Testify.Ef\bin\Debug\EntityFramework.xml
+F:\Projects\Testify\Testify.Ef\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\Testify\Testify.Ef\obj\Debug\Testify.Ef.csprojResolveAssemblyReference.cache
+F:\Projects\Testify\Testify.Ef\obj\Debug\Testify.Ef.dll
+F:\Projects\Testify\Testify.Ef\obj\Debug\Testify.Ef.pdb
+F:\Projects\Testify\Testify.Ef\obj\Debug\Testify.Ef.Migrations.InitialCreate.resources
+F:\Projects\Testify\Testify.Ef\obj\Debug\Testify.Ef.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\Testify.ConsoleClient.exe.config
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\Testify.ConsoleClient.exe
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\Testify.ConsoleClient.pdb
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\Testify.Model.dll
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\Testify.Model.pdb
+F:\Projects\Testify\Testify.ConsoleClient\obj\Debug\Testify.ConsoleClient.csprojResolveAssemblyReference.cache
+F:\Projects\Testify\Testify.ConsoleClient\obj\Debug\Testify.ConsoleClient.exe
+F:\Projects\Testify\Testify.ConsoleClient\obj\Debug\Testify.ConsoleClient.pdb
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\EntityFramework.dll
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\Testify.Ef.dll
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\Testify.Ef.pdb
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\EntityFramework.xml
+F:\Projects\Testify\Testify.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml

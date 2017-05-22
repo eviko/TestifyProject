@@ -1,0 +1,5 @@
+F:\Projects\Testify\Testify.Model\bin\Debug\Testify.Model.dll
+F:\Projects\Testify\Testify.Model\bin\Debug\Testify.Model.pdb
+F:\Projects\Testify\Testify.Model\obj\Debug\Testify.Model.csprojResolveAssemblyReference.cache
+F:\Projects\Testify\Testify.Model\obj\Debug\Testify.Model.dll
+F:\Projects\Testify\Testify.Model\obj\Debug\Testify.Model.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testify.Model", "Testify.Model\Testify.Model.csproj", "{41242B09-080B-4915-B018-14D66246D335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testify.ConsoleClient", "Testify.ConsoleClient\Testify.ConsoleClient.csproj", "{ED23762B-E1CC-4D7E-896F-A6B6768F16F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testify.Ef", "Testify.Ef\Testify.Ef.csproj", "{2DA4A52A-A7B0-4525-97D0-AD43E0181059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41242B09-080B-4915-B018-14D66246D335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41242B09-080B-4915-B018-14D66246D335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41242B09-080B-4915-B018-14D66246D335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41242B09-080B-4915-B018-14D66246D335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED23762B-E1CC-4D7E-896F-A6B6768F16F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED23762B-E1CC-4D7E-896F-A6B6768F16F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED23762B-E1CC-4D7E-896F-A6B6768F16F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED23762B-E1CC-4D7E-896F-A6B6768F16F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA4A52A-A7B0-4525-97D0-AD43E0181059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA4A52A-A7B0-4525-97D0-AD43E0181059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA4A52A-A7B0-4525-97D0-AD43E0181059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA4A52A-A7B0-4525-97D0-AD43E0181059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
